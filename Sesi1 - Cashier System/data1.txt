@@ -1,0 +1,18 @@
+DL003 Kangaroo Teddy Bear 
+68 60000
+DL005 Lil Benny Phant 
+38 110000
+DL006 Cute Baby Shark 
+27 130000
+DL012 Plushie Cute Dinosaur 
+24 140000
+DL020 Sweet Panda 
+28 150000
+DL029 Reverseible Octopus Plushie 
+18 150000
+DL033 Cute Plush Cat Doll 
+19 200000
+DL019 Wolf Plush
+12 120000
+DL023 Tiger
+20 200000
