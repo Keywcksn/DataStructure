@@ -1,6 +1,6 @@
 # DataStructure
 Computer Science 2nd semester - Data Structure
-This repo consist of materials of our second semester of Computer Science Major.
+This repo consist of materials from second semester of Computer Science Major.
 Contents:
 1. Pointer & Array
 2. Single Linked List (SLL)
